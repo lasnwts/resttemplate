@@ -11,6 +11,7 @@ public class UserJPA {
     private int id;
     private String name;
 
+
     public UserJPA() {
     }
 
